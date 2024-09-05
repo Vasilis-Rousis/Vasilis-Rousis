@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/vasilis-rousis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasilis-rousis" height="30" width="40" /></a>
 <a href="https://fb.com/vasilis.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vasilis.r" height="30" width="40" /></a>
 <a href="https://instagram.com/vasilis_rousis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vasilis_rousis" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vasilisrousis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vasilisrousis" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@vasilisrousis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vasilisrousis" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
