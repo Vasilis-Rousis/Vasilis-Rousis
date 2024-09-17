@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Deloitte**
 
-- 🌱 I’m currently learning **Vue, Nuxt, React, Next**
+- 🌱 I’m currently learning **Vue, Nuxt**
 
 - 💬 Ask me about **Vue**
 
